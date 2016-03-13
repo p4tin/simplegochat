@@ -25,7 +25,3 @@ func Client() {
 	}
 }
 
-func main() {
-	Client()
-}
-
